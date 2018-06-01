@@ -20,13 +20,13 @@ RGB颜色空间顾名思义，就是要将一个颜色以R-8bit、G-8bit、B-8bi
 ### 3.图像显示的基本流程
 图像显示的过程，简而言之就是将三维矩阵（或单波段）转为成按颜色值排列的一组序列，然后将其绘制出来，其主要步骤为：
 
-####1）RasterIO
+- 1.RasterIO
 读取图像数据到矩阵，具体参考[RasterIO](./D2_RasterIO.md)
 
-####2）图像矩阵到颜色值的转换
+- 2.图像矩阵到颜色值的转换
 根据图像数据->颜色值的映射关系，创建一个QImage对象，参考[使用RasterIO快速显示图像](https://blog.csdn.net/liminlu0314/article/details/7613894)
 
-####3）绘制图像
+- 3.绘制图像
 将QImage对象绑定到某个控件，即可完成显示，参考[ImageViewer](../src/imageviewer.rar) 和 [遥感图像显示Demo](https://download.csdn.net/download/liminlu0314/4337917)
 
 ## Tips
