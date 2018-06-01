@@ -1,6 +1,4 @@
-# 遥感图像处理课程设计
-
-![face](./pictures/face.png)
+# 遥感图像处理课程设计 ![face](./pictures/face.png)
 
 ## 目录
 - [一、课设目标](#一课设目标) 
@@ -74,7 +72,7 @@
 要求实现遥感图像的灰度显示、彩色合成显示、具备放大、缩小、屏幕适应的显示方式，具备线性拉伸、均衡化等增强显示方式。
 
 ### [3.遥感影像预处理](./contents/D4_Preprocess.md)
-要求实现图像滤波、PCA分析、IHS变换、影像融合等功能。
+要求实现图像滤波、PCA分析、影像融合等功能。
 
 ### [4.遥感影像几何校正](./contents/D5_Geocorrection.md)
 实现但不限于多项式校正的几何校正方法，包括：控制点选取（读取）、几何校正模型计算、重采样内插等功能。
@@ -87,12 +85,22 @@
 
 ## 五、参考资料
 ### 1. Qt
+- [Qt入门](https://blog.csdn.net/Louis_815/article/details/54286544)
+
 ### 2. GDAL
+- [GDAL](www.gdal.org)
+
 ### 3. OpenCV
+- [OpenCV](www.opencv.org)
+
 ### 4. CImg
+- [CImg](www.cimg.eu)
+
 ### 5. CxImage
+- [CxImage](https://www.codeproject.com/Articles/1300/CxImage)
+
 ### 6. RS Image Process
 - 参考[遥感图像处理过程](https://blog.csdn.net/liminlu0314/article/details/8757262)
-- 
+
 [**返回目录**](#目录)
 ---
