@@ -37,4 +37,4 @@ RGB颜色空间顾名思义，就是要将一个颜色以R-8bit、G-8bit、B-8bi
 - 如何实现ENVI多级窗口显示（不作要求，思考）
 
 ---
-[Home](../docs/README.md) | [Return](#遥感图像的显示) |  [Prev](./D2_RasterIO.md) | [Next](./D4_Preprocess.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感图像的显示) |  [Prev](./D2_RasterIO.md) | [Next](./D4_Preprocess.md)

@@ -24,4 +24,4 @@
 - 空域滤波，如何处理图像边界部分
 
 ---
-[Home](../docs/README.MD) | [Return](#遥感影像预处理) |  [Prev](./D3_DisplayImage.md) | [Next](./D5_Geocorrection.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感影像预处理) |  [Prev](./D3_DisplayImage.md) | [Next](./D5_Geocorrection.md)

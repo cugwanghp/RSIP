@@ -9,4 +9,4 @@
 	- 非监督分类，如：K-Means、ISODATA
 
 ---
-[Home](../docs/README.md) | [Return](#遥感影像分类) | [Prev](./D5_Geocorrection.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感影像分类) | [Prev](./D5_Geocorrection.md)
