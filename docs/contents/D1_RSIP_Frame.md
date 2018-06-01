@@ -2,11 +2,9 @@
 掌握Qt、MFC或其他界面框架，构建基本的系统原型，包括视图、菜单、工具栏等界面要素。
 
 ## 目录
-[一、开发环境配置](#一开发环境配置)
-
-[二、示例代码](#二示例代码)
-
-[三、参考资料](#三参考资料)
+- [一、开发环境配置](#一开发环境配置)
+- [二、示例代码](#二示例代码)
+- [三、参考资料](#三参考资料)
 
 ## 一、开发环境配置
 ### 1. VS2017安装
@@ -31,7 +29,7 @@ Qt使用有2种，一种是QtCreator，一种是VS插件，这两种方式各有
 [code download](../src/imageviewer.rar)
 
 ![imageviewer](../pictures/imageviewer.png)
-                                                                      示例代码界面图
+                                      示例代码界面图
 
 ## 三、参考资料
 ### 3.1. Qt VS. VS IDE
@@ -66,3 +64,7 @@ GUI方式生成各类编译器识别的makefile, [下载地址](https://cmake.or
 - [Compile GDAL With MinGW](http://trac.osgeo.org/gdal/wiki/BuildingWithMinGW)
 
 - [Compile OpenCV With MinGW](https://blog.csdn.net/asklw/article/details/72566428)
+
+---
+[Home](../README.md) | [Return](#目录)  | [Next](./D2_RasterIO.md)
+
