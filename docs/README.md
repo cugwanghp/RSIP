@@ -1,4 +1,4 @@
-# 遥感图像处理课程设计 ![face](./pictures/face.png)
+![face](./pictures/face.png)
 
 ## 目录
 - [一、课设目标](#一课设目标) 
