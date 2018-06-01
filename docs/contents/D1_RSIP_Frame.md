@@ -66,5 +66,5 @@ GUI方式生成各类编译器识别的makefile, [下载地址](https://cmake.or
 - [Compile OpenCV With MinGW](https://blog.csdn.net/asklw/article/details/72566428)
 
 ---
-[Home](../README.md) | [Return](#目录)  | [Next](./D2_RasterIO.md)
+[Home](../docs/README.md) | [Return](#目录)  | [Next](./D2_RasterIO.md)
 

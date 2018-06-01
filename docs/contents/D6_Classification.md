@@ -7,3 +7,6 @@
 - 遥感影像分类
 	- 监督分类，如：最大似然、BP等
 	- 非监督分类，如：K-Means、ISODATA
+
+---
+[Home](../docs/README.md) | [Return](#遥感影像分类) | [Prev](./D5_Geocorrection.md)

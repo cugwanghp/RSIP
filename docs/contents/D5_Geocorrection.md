@@ -37,4 +37,4 @@
 - [使用GDAL工具对FY3系列卫星数据进行校正](https://blog.csdn.net/liminlu0314/article/details/9181959)
 
 ---
-[Home](../docs/README.md) | [Return](#遥感影像几何校正) | [Prev](./D4_Preprocess.md) | [Next](./D5_Classification.md)
+[Home](../docs/README.md) | [Return](#遥感影像几何校正) | [Prev](./D4_Preprocess.md) | [Next](./D6_Classification.md)
