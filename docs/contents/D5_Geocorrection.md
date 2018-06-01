@@ -1,4 +1,4 @@
-# 遥感影像几何校正
+# 实习<五>遥感影像几何校正
 
 实现但不限于多项式校正的几何校正方法，包括：控制点选取（读取）、几何校正模型计算、重采样内插等功能。
 
@@ -37,4 +37,4 @@
 - [使用GDAL工具对FY3系列卫星数据进行校正](https://blog.csdn.net/liminlu0314/article/details/9181959)
 
 ---
-[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感影像几何校正) | [Prev](./D4_Preprocess.md) | [Next](./D6_Classification.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#实习<五>遥感影像几何校正) | [Prev](./D4_Preprocess.md) | [Next](./D6_Classification.md)

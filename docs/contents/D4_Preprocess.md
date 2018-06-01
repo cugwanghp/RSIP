@@ -1,4 +1,4 @@
-#遥感影像预处理
+# 实习<四>遥感影像预处理
 要求实现图像滤波、PCA分析、影像融合等功能。
 
 ## 图像滤波
@@ -24,4 +24,4 @@
 - 空域滤波，如何处理图像边界部分
 
 ---
-[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感影像预处理) |  [Prev](./D3_DisplayImage.md) | [Next](./D5_Geocorrection.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#实习<四>遥感影像预处理) |  [Prev](./D3_ImageDisplay.md) | [Next](./D5_Geocorrection.md)

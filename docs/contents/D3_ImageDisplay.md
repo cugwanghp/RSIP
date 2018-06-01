@@ -1,4 +1,4 @@
-#遥感图像的显示
+# 实习<三>遥感图像的显示
 要求实现遥感图像的灰度显示、彩色合成显示、具备放大、缩小、屏幕适应的显示方式，具备线性拉伸、均衡化等增强显示方式。
 
 ## 遥感图像显示过程
@@ -37,4 +37,4 @@ RGB颜色空间顾名思义，就是要将一个颜色以R-8bit、G-8bit、B-8bi
 - 如何实现ENVI多级窗口显示（不作要求，思考）
 
 ---
-[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感图像的显示) |  [Prev](./D2_RasterIO.md) | [Next](./D4_Preprocess.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#实习<三>遥感图像的显示) |  [Prev](./D2_RasterIO.md) | [Next](./D4_Preprocess.md)

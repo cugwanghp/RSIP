@@ -1,5 +1,12 @@
-# 遥感图像数据I/O
+# 实习<二>遥感图像数据I/O
 要求实现常用遥感图像数据（GeoTiff，IMG，Pix，jpeg，bmp、Envi）的读、写操作，读取并显示遥感图像的基本信息（行、列、波段、投影）及统计信息（均值、方差、最值、中值、直方图）。
+
+## 目录
+- [1.GDAL配置](#1GDAL配置)
+- [2.GDAL读取图像](#2GDAL读取图像)
+- [3.GDAL统计信息](# 3. GDAL统计信息)
+- [4. Thinking](#4Thinking)
+- [5. Reference](#5Reference)
 
 ## 1. GDAL配置
 ### Compile GDAL
@@ -28,4 +35,4 @@ GDAL支持了2种进度条，一种是console进度条。
 - [GDAL官方帮助](http://gdal.org/index.html)
 
 ---
-[Home](https://wanghp119.github.io/RSIP/) | [Return](#遥感图像数据I/O) | [Prev](./D1_RSIP_Frame.md) | [Next](./D3_ImageDisplay.md)
+[Home](https://wanghp119.github.io/RSIP/) | [Return](#目录) | [Prev](./D1_RSIP_Frame.md) | [Next](./D3_ImageDisplay.md)
