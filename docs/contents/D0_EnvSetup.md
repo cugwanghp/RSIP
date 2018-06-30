@@ -29,7 +29,7 @@
 
 ---
 
-**更为详细的配置说明文档，参照113162班陈瑞麟同学分享的[配置文档]()。Thank you！！**
+**更为详细的配置说明文档，参照113162班陈瑞麟同学分享的[配置文档](./%E9%85%8D%E7%BD%AEGDAL%2BVS2017%2BQT.pdf)。Thank you！！**
 
 ---
 [Home](https://wanghp119.github.io/RSIP/) | [Return](#目录)  | [Next](./D2_RasterIO.md)
