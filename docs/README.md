@@ -51,22 +51,25 @@
 ## 四、课设内容
 遥感图像处理课程设计的主要内容是使用高级程序设计语言，实现一个简易地遥感图像处理系统，包括但不限于以下功能：
 
-### [0.程序框架构建](./contents/D1_RSIP_Frame.md)
+### [0.开发环境配置](./contents/D0_EnvSetup.md)
+配置VS2017、Qt5、GDAL的文档。
+
+### [1.程序框架构建](./contents/D1_RSIP_Frame.md)
 掌握Qt、MFC或其他界面框架，构建基本的系统原型，包括视图、菜单、工具栏等界面要素。
 
-### [1.遥感图像数据I/O](./contents/D2_RasterIO.md)
+### [2.遥感图像数据I/O](./contents/D2_RasterIO.md)
 要求实现常用遥感图像数据（GeoTiff，IMG，Pix，jpeg，bmp、Envi）的读、写操作，读取并显示遥感图像的基本信息及统计信息。
 
-### [2.遥感图像的显示](./contents/D3_ImageDisplay.md)
+### [3.遥感图像的显示](./contents/D3_ImageDisplay.md)
 要求实现遥感图像的灰度显示、彩色合成显示、具备放大、缩小、屏幕适应的显示方式，具备线性拉伸、均衡化等增强显示方式。
 
-### [3.遥感影像预处理](./contents/D4_Preprocess.md)
+### [4.遥感影像预处理](./contents/D4_Preprocess.md)
 要求实现图像滤波、PCA分析、影像融合等功能。
 
-### [4.遥感影像几何校正](./contents/D5_Geocorrection.md)
+### [5.遥感影像几何校正](./contents/D5_Geocorrection.md)
 实现但不限于多项式校正的几何校正方法，包括：控制点选取（读取）、几何校正模型计算、重采样内插等功能。
 
-### [5.遥感影像分类](./contents/D6_Classification.md)
+### [6.遥感影像分类](./contents/D6_Classification.md)
 实现监督分类和非监督分类的算法至少各一种。
 
 [**返回目录**](#目录)
