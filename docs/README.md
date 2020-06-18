@@ -199,14 +199,14 @@
 ## 五、参考资料
 ### 1. 开源库
 - [Qt入门](https://blog.csdn.net/Louis_815/article/details/54286544)
-- [GDAL](www.gdal.org)
+- [GDAL](http://www.gdal.org)
 - [GDAL Document](https://gdal.org/gdal.pdf)
 - [OpenCV](www.opencv.org)
 - [CImg](www.cimg.eu)
 - [CxImage](https://www.codeproject.com/Articles/1300/CxImage)
 - [Eigen](<http://eigen.tuxfamily.org/index.php?title=Main_Page>)
-- Eigen的配置和安装，请参考<<https://blog.csdn.net/abcjennifer/article/details/7781936>>。
-- Eigen的使用，可以参考<<https://zhuanlan.zhihu.com/p/31111908>>。
+- Eigen的配置和安装，请参考<https://blog.csdn.net/abcjennifer/article/details/7781936>。
+- Eigen的使用，可以参考<https://zhuanlan.zhihu.com/p/31111908>。
 
 ---
 
