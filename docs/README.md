@@ -47,7 +47,7 @@
 ---
 
 ## 三、课设安排
-![TimeTable](./pictures/TimeTable.png)
+![TimeTable](pictures/TimeTable.png)
 
 [**返回目录**](#目录)
 ---
@@ -55,10 +55,10 @@
 ## 四、课设内容
 本次课程的重点是图像处理算法，因此对GUI不做过多的要求，即控制台程序和GUI界面程序均可。但课设的所有算法，要能够组织到一起，需要在一个可执行程序下调用。当然我们更希望看到美观的GUI界面程序。课设内容包括以下功能：
 ### 0. 准备工作
-#### [0.开发环境配置](./contents/D0_EnvSetup.md)
+#### [0.开发环境配置](contents/D0_EnvSetup.md)
 配置VS2017、Qt5、GDAL的文档。
 
-#### [1.程序框架构建](./contents/D1_RSIP_Frame.md)
+#### [1.程序框架构建](contents/D1_RSIP_Frame.md)
 掌握Qt、MFC或其他界面框架，构建基本的系统原型，包括视图、菜单、工具栏等界面要素。
 
 ### 1. 必做题 - 50%
@@ -200,6 +200,7 @@
 ### 1. 开源库
 - [Qt入门](https://blog.csdn.net/Louis_815/article/details/54286544)
 - [GDAL](www.gdal.org)
+- [GDAL Document](https://gdal.org/gdal.pdf)
 - [OpenCV](www.opencv.org)
 - [CImg](www.cimg.eu)
 - [CxImage](https://www.codeproject.com/Articles/1300/CxImage)
